@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-main branch README
+master branch README
